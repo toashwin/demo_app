@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial : demo applications
 
-This is a demo. {The gitup location is} [https://github.com/toashwin/demo_app]
+* This is a demo. {The gitup location is}[https://github.com/toashwin/demo_app]
